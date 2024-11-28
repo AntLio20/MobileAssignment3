@@ -1,0 +1,23 @@
+name: assignment3mobile
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  intl: ^0.18.0
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  sqflite: ^2.2.0
+  path: ^1.8.3
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
